@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.com/up1/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.com/up1/workshop-depoy-microservice-java)
+[![Build Status](https://travis-ci.com/poowanut123/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.com/poowanut123/workshop-depoy-microservice-java)
 
 [MY Docker Hub](https://hub.docker.com/u/poowanut)
 
